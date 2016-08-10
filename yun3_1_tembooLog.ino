@@ -27,7 +27,7 @@ Process date;  // Process to get the measurement time
 const String SPREADSHEET_TITLE = "Yun";
 
 // Debug mode ?
-boolean debug_mode = true;
+boolean debug_mode = false;
 
 void setup() {
   // Start Serial
